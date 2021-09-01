@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\bin\Debug\netcoreapp3.1\GridLandMetro.exe
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\bin\Debug\netcoreapp3.1\GridLandMetro.deps.json
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\bin\Debug\netcoreapp3.1\GridLandMetro.runtimeconfig.json
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\bin\Debug\netcoreapp3.1\GridLandMetro.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\bin\Debug\netcoreapp3.1\GridLandMetro.dll
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\bin\Debug\netcoreapp3.1\GridLandMetro.pdb
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.AssemblyInfo.cs
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.dll
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.pdb
+C:\Users\philipst\source\repos\GridLandMetro\GridLandMetro\obj\Debug\netcoreapp3.1\GridLandMetro.genruntimeconfig.cache
