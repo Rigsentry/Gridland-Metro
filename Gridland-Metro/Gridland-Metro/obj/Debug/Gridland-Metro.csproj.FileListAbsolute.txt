@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\Gridland-Metro.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\Gridland-Metro.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\Gridland-Metro.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\Gridland-Metro.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\Gridland-Metro.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\Gridland-Metro.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\Gridland-Metro.pdb
