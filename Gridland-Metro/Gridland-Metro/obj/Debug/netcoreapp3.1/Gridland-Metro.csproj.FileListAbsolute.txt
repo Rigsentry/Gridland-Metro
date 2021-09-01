@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\netcoreapp3.1\Gridland-Metro.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\netcoreapp3.1\Gridland-Metro.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\netcoreapp3.1\Gridland-Metro.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\netcoreapp3.1\Gridland-Metro.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\netcoreapp3.1\Gridland-Metro.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\bin\Debug\netcoreapp3.1\Gridland-Metro.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Gridland-Metro\Gridland-Metro\Gridland-Metro\obj\Debug\netcoreapp3.1\Gridland-Metro.genruntimeconfig.cache
